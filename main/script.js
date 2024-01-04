@@ -46,6 +46,7 @@ formSubmitButton.addEventListener('click', (event) => {
 
     if (isValidEmail && isNameFilled && isMessageFilled) {
         formSubmitButton.innerHTML = "Shooting....";
+        location.reload();
     }
 })
 
