@@ -85,7 +85,7 @@ body {
   .mobile-navigation {
     display: block;
     position: fixed;
-    background: url("/photos/bars-solid.svg");
+    background: url("./photos/bars-solid.svg");
     width: 2rem;
     background-repeat: no-repeat;
     aspect-ratio: 1;
