@@ -1,2 +1,2 @@
-# mywebsite
-My Website
+# Initial take on a portfolio website
+
