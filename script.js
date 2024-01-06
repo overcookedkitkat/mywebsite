@@ -50,6 +50,7 @@ formSubmitButton.addEventListener('click', (event) => {
     }
 })
 
+
 //FORM - VALIDATING FORM
 // function validateForm() {
 //     const isValidEmail = email.value.match(regexEmailPattern);
